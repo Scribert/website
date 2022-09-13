@@ -5,6 +5,7 @@
 * Cats can climb trees
 * Cats clean themselves
 * Cats can be potty-trained
+
 [More Info](https://en.wikipedia.org/wiki/Cat)
 
 ## How to Wash a Cat
